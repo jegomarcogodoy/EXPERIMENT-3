@@ -14,6 +14,7 @@ This experiment comprises 2 problems, namely:
 ********************* Coding Process ✏️ *********************
 __________________________________________________________________
 For Problem 1,
+
 -- > I started by uploading the "cars.csv" file's data into the "cars" data frame.
 
 -- >  I then used the steps "cars.head()" and "cars.tail()" to obtain the data frame's first and last five rows.
