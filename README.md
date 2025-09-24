@@ -129,17 +129,17 @@ Explanation:
 
 Through this experiment, I learned how to:
 
--Use Pandas to load datasets with read_csv().
+1. Use Pandas to load datasets with read_csv().
 
--Display parts of the dataset using .head() and .tail().
+2. Display parts of the dataset using .head() and .tail().
 
--Perform subsetting (choosing specific rows/columns).
+3. Perform subsetting (choosing specific rows/columns).
 
--Use slicing and indexing with .iloc and .loc.
+4. Use slicing and indexing with .iloc and .loc.
 
 📌 Key Takeaway: Pandas makes it easy to filter, view, and manipulate tabular data efficiently.
-
+-
 🏁 End of Experiment 3
-
+-
 Thank you! 🙌
-
+-
